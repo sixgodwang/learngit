@@ -1,2 +1,2 @@
 this is readme in master
-create a new branch is quick & simplw
+create a new branch is a new branch "dev"
